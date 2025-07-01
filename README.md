@@ -28,4 +28,13 @@ Achieved 100% accuracy on test data — perfect classification with no mislabels
 ## 📁 How to Run
 
 1. Clone this repo or download the files
-2. Install the requirements:
+2. Install the requirements:pip install -r requirements.txt
+
+## ✨ Output Example
+```bash
+✅ Confusion Matrix:
+[[1 0 0]
+[0 4 0]
+[0 0 1]]
+
+✅ Accuracy Score: 1.0
